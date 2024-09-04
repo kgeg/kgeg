@@ -1,6 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=kgega09203&theme=dracula&rank=-D,-C,-B,-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h1 align="center">Hello there 😀 I'm Kledis</h1>
+<h1 align="center">Hello there 👾 I'm Kledis</h1>
 <h3 align="center">A dedicated and passionate undergraduate ECE student.</h3>
 
 - 📖 I study Computer Hardware and Architecture  &amp; Software and Information System Engineering!
@@ -11,7 +9,7 @@
 
 - 📫 Email me to **kledisgega@gmail.com**
 
-- 📄 Know about my experiences ([resume](https://kgega0920.github.io/Portofolio/))
+- 📄 Know about my experiences ([resume](https://kgega0920.github.io/Portofolio/assets/Kledis_Gega_Resume.pdf))
 
 <h2 align="left">Connect with me 🤝</h2>
 <p align="left">
