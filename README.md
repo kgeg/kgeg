@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Gnerative AI**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://kgega0902.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [portfolio](https://kgega0920.github.io/Portofolio/)
 
 - 📫 Email me to **kledisgega@gmail.com**
 
