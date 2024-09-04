@@ -1,17 +1,11 @@
-## Hi there 👋
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=kgega09203&theme=dracula&rank=-D,-C,-B,-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Hello there 😀 I'm Kledis</h1>
 <h3 align="center">A dedicated and passionate undergraduate ECE student.</h3>
 
+- 📖 I study Computer Hardware and Architecture  &amp; Software and Information System Engineering!
 
-- 🧑‍💻 I'm a Software Engineering Intern at [**Google**](https://cloud.google.com/products/agent-builder) and [**RoBorregos**](https://github.com/RoBorregos/)
-
-- 📖 I study Software and Information System Engineering &amp; Computer Hardware and Architecture!
-
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Gnerative AI**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://kgega0902.github.io/Portfolio/)
 
@@ -21,8 +15,8 @@
 
 <h2 align="left">Connect with me 🤝</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/kledis-gega/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kgega" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kledis_gega/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afr.2903" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kledis-gega/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kledis-gega" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kledis_gega/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kledis_gega" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/581913763989684234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/581913763989684234" height="30" width="40" /></a>
 </p>
 
