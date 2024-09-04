@@ -49,14 +49,14 @@
 <h2>GitHub Stats 📊</h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kgega0902&show_icons=true&locale=en&theme=material-palenight&include_all_commits=true&hide_border=true&rank_icon=default" alt="kgega0902" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kgega0920&show_icons=true&locale=en&theme=material-palenight&include_all_commits=true&hide_border=true&rank_icon=default" alt="kgega0920" />
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgega0902&hide_border=true&theme=material-palenight" alt="kgega0902" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgega0902&hide_border=true&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="kgega0902" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgega0920&hide_border=true&theme=material-palenight" alt="kgega0920" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgega0920&hide_border=true&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="kgega0920" />
 </div>
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kgega0902&theme=tokyonight" alt="kgega0902" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kgega0920&theme=tokyonight" alt="kgega0920" />
 </div>
