@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Gnerative AI**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://kgega0920.github.io/Portofolio/)
+- 👨‍💻 All of my projects are available at [portfolio](https://kgeg.github.io/portfolio/)
 
 - 📫 Email me to **kledisgega@gmail.com**
 
-- 📄 Know about my experiences ([resume](https://kgega0920.github.io/Portofolio/assets/Kledis_Gega_Resume.pdf))
+- 📄 Know about my experiences ([resume](https://kgeg.github.io/portfolio/assets/Kledis_Gega_Resume.pdf))
 
 <h2 align="left">Connect with me 🤝</h2>
 <p align="left">
@@ -33,30 +33,30 @@
 <h2>GitHub Stats 📊</h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kgega0920&show_icons=true&locale=en&theme=material-palenight&show=reviews,prs_merged_percentage&include_all_commits=false&hide_border=true&rank_icon=default" alt="kgega0920" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kgeg&show_icons=true&locale=en&theme=material-palenight&show=reviews,prs_merged_percentage&include_all_commits=false&hide_border=true&rank_icon=default" alt="kgeg" />
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgega0920&hide_border=true&theme=material-palenight" alt="kgega0920" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgega0920&hide_border=true&show_icons=true&locale=en&layout=donut&theme=material-palenight" alt="kgega0920" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgeg&hide_border=true&theme=material-palenight" alt="kgeg" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgeg&hide_border=true&show_icons=true&locale=en&layout=donut&theme=material-palenight" alt="kgeg" />
 </div>
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kgega0920&theme=tokyonight" alt="kgega0920" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kgeg&theme=tokyonight" alt="kgeg" />
 </div>
 
 -->
 <h2>GitHub Stats 📊</h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kgega0920&show_icons=true&locale=en&theme=material-palenight&include_all_commits=true&hide_border=true&rank_icon=default" alt="kgega0920" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kgeg&show_icons=true&locale=en&theme=material-palenight&include_all_commits=true&hide_border=true&rank_icon=default" alt="kgeg" />
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgega0920&hide_border=true&theme=material-palenight" alt="kgega0920" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgega0920&hide_border=true&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="kgega0920" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgeg&hide_border=true&theme=material-palenight" alt="kgeg" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgeg&hide_border=true&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="kgeg" />
 </div>
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kgega0920&theme=tokyonight" alt="kgega0920" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kgeg&theme=tokyonight" alt="kgeg" />
 </div>
