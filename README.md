@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](https://kgeg.github.io/portfolio/)
 
-- 📫 Email me to **kledisgega@gmail.com**
+- 📫 Email me to **kgkegka@uth.gr**
 
 - 📄 Know about my experiences ([resume](https://kgeg.github.io/portfolio/assets/Kledis_Gega_Resume.pdf))
 
